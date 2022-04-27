@@ -17,6 +17,7 @@ To learn more before you start working with icptree, see the following documenta
 - [JavaScript API Reference](https://erxue-5aaaa-aaaab-qaagq-cai.raw.ic0.app)
 
 ### Step1
+### IMPORTANT: DONT USE YARN!!!
 
 ```bash
 npm install or npm install --legacy-peer-deps
